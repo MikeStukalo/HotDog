@@ -3,6 +3,10 @@
 .AppleDouble
 .LSOverride
 
+# Environment
+env/
+.env
+
 # Data 
 data/
 
