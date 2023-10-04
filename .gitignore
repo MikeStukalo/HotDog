@@ -1,3 +1,11 @@
+# Mac specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data 
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
