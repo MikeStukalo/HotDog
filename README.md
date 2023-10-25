@@ -15,3 +15,6 @@ First, I train a simple model that uses just the dataset. As expected, the accur
 Next, I use transfer learning and Imagenet pre-trained model. 
 
 The results can be tested using .jpeg pictures. For start, there are a couple of pictures in example/ folder.
+
+# Deployment
+/deploy folder includes scripts to create a Sknowflake-based model and deploy it via a StreamLit App
